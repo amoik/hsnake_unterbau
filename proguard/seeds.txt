@@ -1,0 +1,172 @@
+android.annotation.SuppressLint
+android.annotation.SuppressLint: java.lang.String[] value()
+android.annotation.TargetApi
+android.annotation.TargetApi: int value()
+com.hsnake.game.BuildConfig
+com.hsnake.game.BuildConfig: boolean DEBUG
+com.hsnake.game.BuildConfig: BuildConfig()
+com.hsnake.game.R
+com.hsnake.game.R: R()
+com.hsnake.game.R$attr
+com.hsnake.game.R$attr: R$attr()
+com.hsnake.game.R$drawable
+com.hsnake.game.R$drawable: int ic_launcher
+com.hsnake.game.R$drawable: R$drawable()
+com.hsnake.game.R$layout
+com.hsnake.game.R$layout: int main
+com.hsnake.game.R$layout: R$layout()
+com.hsnake.game.R$string
+com.hsnake.game.R$string: int app_name
+com.hsnake.game.R$string: R$string()
+com.hsnake.game.hsnake
+com.hsnake.game.hsnake: hsnake()
+org.libsdl.app.DummyEdit
+org.libsdl.app.DummyEdit: android.view.inputmethod.InputConnection ic
+org.libsdl.app.DummyEdit: DummyEdit(android.content.Context)
+org.libsdl.app.DummyEdit: boolean onCheckIsTextEditor()
+org.libsdl.app.DummyEdit: boolean onKey(android.view.View,int,android.view.KeyEvent)
+org.libsdl.app.DummyEdit: boolean onKeyPreIme(int,android.view.KeyEvent)
+org.libsdl.app.DummyEdit: android.view.inputmethod.InputConnection onCreateInputConnection(android.view.inputmethod.EditorInfo)
+org.libsdl.app.SDLActivity
+org.libsdl.app.SDLActivity: java.lang.String TAG
+org.libsdl.app.SDLActivity: boolean mIsPaused
+org.libsdl.app.SDLActivity: boolean mIsSurfaceReady
+org.libsdl.app.SDLActivity: boolean mHasFocus
+org.libsdl.app.SDLActivity: boolean mExitCalledFromJava
+org.libsdl.app.SDLActivity: org.libsdl.app.SDLActivity mSingleton
+org.libsdl.app.SDLActivity: org.libsdl.app.SDLSurface mSurface
+org.libsdl.app.SDLActivity: android.view.View mTextEdit
+org.libsdl.app.SDLActivity: android.view.ViewGroup mLayout
+org.libsdl.app.SDLActivity: org.libsdl.app.SDLJoystickHandler mJoystickHandler
+org.libsdl.app.SDLActivity: java.lang.Thread mSDLThread
+org.libsdl.app.SDLActivity: android.media.AudioTrack mAudioTrack
+org.libsdl.app.SDLActivity: int COMMAND_CHANGE_TITLE
+org.libsdl.app.SDLActivity: int COMMAND_UNUSED
+org.libsdl.app.SDLActivity: int COMMAND_TEXTEDIT_HIDE
+org.libsdl.app.SDLActivity: int COMMAND_USER
+org.libsdl.app.SDLActivity: android.os.Handler commandHandler
+org.libsdl.app.SDLActivity: void <clinit>()
+org.libsdl.app.SDLActivity: SDLActivity()
+org.libsdl.app.SDLActivity: void initialize()
+org.libsdl.app.SDLActivity: void copyAssets()
+org.libsdl.app.SDLActivity: void copyFile(java.io.InputStream,java.io.OutputStream)
+org.libsdl.app.SDLActivity: void onCreate(android.os.Bundle)
+org.libsdl.app.SDLActivity: void onPause()
+org.libsdl.app.SDLActivity: void onResume()
+org.libsdl.app.SDLActivity: void onWindowFocusChanged(boolean)
+org.libsdl.app.SDLActivity: void onLowMemory()
+org.libsdl.app.SDLActivity: void onDestroy()
+org.libsdl.app.SDLActivity: boolean dispatchKeyEvent(android.view.KeyEvent)
+org.libsdl.app.SDLActivity: void handlePause()
+org.libsdl.app.SDLActivity: void handleResume()
+org.libsdl.app.SDLActivity: void handleNativeExit()
+org.libsdl.app.SDLActivity: boolean onUnhandledMessage(int,java.lang.Object)
+org.libsdl.app.SDLActivity: boolean sendCommand(int,java.lang.Object)
+org.libsdl.app.SDLActivity: void nativeInit()
+org.libsdl.app.SDLActivity: void nativeLowMemory()
+org.libsdl.app.SDLActivity: void nativeQuit()
+org.libsdl.app.SDLActivity: void nativePause()
+org.libsdl.app.SDLActivity: void nativeResume()
+org.libsdl.app.SDLActivity: void onNativeResize(int,int,int)
+org.libsdl.app.SDLActivity: int onNativePadDown(int,int)
+org.libsdl.app.SDLActivity: int onNativePadUp(int,int)
+org.libsdl.app.SDLActivity: void onNativeJoy(int,int,float)
+org.libsdl.app.SDLActivity: void onNativeHat(int,int,int,int)
+org.libsdl.app.SDLActivity: void onNativeKeyDown(int)
+org.libsdl.app.SDLActivity: void onNativeKeyUp(int)
+org.libsdl.app.SDLActivity: void onNativeKeyboardFocusLost()
+org.libsdl.app.SDLActivity: void onNativeTouch(int,int,int,float,float,float)
+org.libsdl.app.SDLActivity: void onNativeAccel(float,float,float)
+org.libsdl.app.SDLActivity: void onNativeSurfaceChanged()
+org.libsdl.app.SDLActivity: void onNativeSurfaceDestroyed()
+org.libsdl.app.SDLActivity: void nativeFlipBuffers()
+org.libsdl.app.SDLActivity: int nativeAddJoystick(int,java.lang.String,int,int,int,int,int)
+org.libsdl.app.SDLActivity: int nativeRemoveJoystick(int)
+org.libsdl.app.SDLActivity: void flipBuffers()
+org.libsdl.app.SDLActivity: boolean setActivityTitle(java.lang.String)
+org.libsdl.app.SDLActivity: boolean sendMessage(int,int)
+org.libsdl.app.SDLActivity: android.content.Context getContext()
+org.libsdl.app.SDLActivity: java.lang.Object getSystemServiceFromUiThread(java.lang.String)
+org.libsdl.app.SDLActivity: boolean showTextInput(int,int,int,int)
+org.libsdl.app.SDLActivity: android.view.Surface getNativeSurface()
+org.libsdl.app.SDLActivity: int audioInit(int,boolean,boolean,int)
+org.libsdl.app.SDLActivity: void audioWriteShortBuffer(short[])
+org.libsdl.app.SDLActivity: void audioWriteByteBuffer(byte[])
+org.libsdl.app.SDLActivity: void audioQuit()
+org.libsdl.app.SDLActivity: int[] inputGetInputDeviceIds(int)
+org.libsdl.app.SDLActivity: boolean handleJoystickMotionEvent(android.view.MotionEvent)
+org.libsdl.app.SDLActivity: void pollInputDevices()
+org.libsdl.app.SDLActivity$1
+org.libsdl.app.SDLActivity$1: org.libsdl.app.SDLActivity this$0
+org.libsdl.app.SDLActivity$1: java.lang.Object val$lock
+org.libsdl.app.SDLActivity$1: java.lang.Object[] val$results
+org.libsdl.app.SDLActivity$1: java.lang.String val$name
+org.libsdl.app.SDLActivity$1: SDLActivity$1(org.libsdl.app.SDLActivity,java.lang.Object,java.lang.Object[],java.lang.String)
+org.libsdl.app.SDLActivity$1: void run()
+org.libsdl.app.SDLActivity$SDLCommandHandler
+org.libsdl.app.SDLActivity$SDLCommandHandler: SDLActivity$SDLCommandHandler()
+org.libsdl.app.SDLActivity$SDLCommandHandler: void handleMessage(android.os.Message)
+org.libsdl.app.SDLActivity$ShowTextInputTask
+org.libsdl.app.SDLActivity$ShowTextInputTask: int HEIGHT_PADDING
+org.libsdl.app.SDLActivity$ShowTextInputTask: int x
+org.libsdl.app.SDLActivity$ShowTextInputTask: int y
+org.libsdl.app.SDLActivity$ShowTextInputTask: int w
+org.libsdl.app.SDLActivity$ShowTextInputTask: int h
+org.libsdl.app.SDLActivity$ShowTextInputTask: SDLActivity$ShowTextInputTask(int,int,int,int)
+org.libsdl.app.SDLActivity$ShowTextInputTask: void run()
+org.libsdl.app.SDLGenericMotionListener_API12
+org.libsdl.app.SDLGenericMotionListener_API12: SDLGenericMotionListener_API12()
+org.libsdl.app.SDLGenericMotionListener_API12: boolean onGenericMotion(android.view.View,android.view.MotionEvent)
+org.libsdl.app.SDLInputConnection
+org.libsdl.app.SDLInputConnection: SDLInputConnection(android.view.View,boolean)
+org.libsdl.app.SDLInputConnection: boolean sendKeyEvent(android.view.KeyEvent)
+org.libsdl.app.SDLInputConnection: boolean commitText(java.lang.CharSequence,int)
+org.libsdl.app.SDLInputConnection: boolean setComposingText(java.lang.CharSequence,int)
+org.libsdl.app.SDLInputConnection: void nativeCommitText(java.lang.String,int)
+org.libsdl.app.SDLInputConnection: void nativeSetComposingText(java.lang.String,int)
+org.libsdl.app.SDLInputConnection: boolean deleteSurroundingText(int,int)
+org.libsdl.app.SDLJoystickHandler
+org.libsdl.app.SDLJoystickHandler: SDLJoystickHandler()
+org.libsdl.app.SDLJoystickHandler: boolean handleMotionEvent(android.view.MotionEvent)
+org.libsdl.app.SDLJoystickHandler: void pollInputDevices()
+org.libsdl.app.SDLJoystickHandler_API12
+org.libsdl.app.SDLJoystickHandler_API12: java.util.ArrayList mJoysticks
+org.libsdl.app.SDLJoystickHandler_API12: SDLJoystickHandler_API12()
+org.libsdl.app.SDLJoystickHandler_API12: void pollInputDevices()
+org.libsdl.app.SDLJoystickHandler_API12: org.libsdl.app.SDLJoystickHandler_API12$SDLJoystick getJoystick(int)
+org.libsdl.app.SDLJoystickHandler_API12: boolean handleMotionEvent(android.view.MotionEvent)
+org.libsdl.app.SDLJoystickHandler_API12$RangeComparator
+org.libsdl.app.SDLJoystickHandler_API12$RangeComparator: org.libsdl.app.SDLJoystickHandler_API12 this$0
+org.libsdl.app.SDLJoystickHandler_API12$RangeComparator: SDLJoystickHandler_API12$RangeComparator(org.libsdl.app.SDLJoystickHandler_API12)
+org.libsdl.app.SDLJoystickHandler_API12$RangeComparator: int compare(android.view.InputDevice$MotionRange,android.view.InputDevice$MotionRange)
+org.libsdl.app.SDLJoystickHandler_API12$RangeComparator: int compare(java.lang.Object,java.lang.Object)
+org.libsdl.app.SDLJoystickHandler_API12$SDLJoystick
+org.libsdl.app.SDLJoystickHandler_API12$SDLJoystick: int device_id
+org.libsdl.app.SDLJoystickHandler_API12$SDLJoystick: java.lang.String name
+org.libsdl.app.SDLJoystickHandler_API12$SDLJoystick: java.util.ArrayList axes
+org.libsdl.app.SDLJoystickHandler_API12$SDLJoystick: java.util.ArrayList hats
+org.libsdl.app.SDLJoystickHandler_API12$SDLJoystick: org.libsdl.app.SDLJoystickHandler_API12 this$0
+org.libsdl.app.SDLJoystickHandler_API12$SDLJoystick: SDLJoystickHandler_API12$SDLJoystick(org.libsdl.app.SDLJoystickHandler_API12)
+org.libsdl.app.SDLMain
+org.libsdl.app.SDLMain: SDLMain()
+org.libsdl.app.SDLMain: void run()
+org.libsdl.app.SDLSurface
+org.libsdl.app.SDLSurface: android.hardware.SensorManager mSensorManager
+org.libsdl.app.SDLSurface: android.view.Display mDisplay
+org.libsdl.app.SDLSurface: float mWidth
+org.libsdl.app.SDLSurface: float mHeight
+org.libsdl.app.SDLSurface: SDLSurface(android.content.Context)
+org.libsdl.app.SDLSurface: android.view.Surface getNativeSurface()
+org.libsdl.app.SDLSurface: void surfaceCreated(android.view.SurfaceHolder)
+org.libsdl.app.SDLSurface: void surfaceDestroyed(android.view.SurfaceHolder)
+org.libsdl.app.SDLSurface: void surfaceChanged(android.view.SurfaceHolder,int,int,int)
+org.libsdl.app.SDLSurface: void onDraw(android.graphics.Canvas)
+org.libsdl.app.SDLSurface: boolean onKey(android.view.View,int,android.view.KeyEvent)
+org.libsdl.app.SDLSurface: boolean onTouch(android.view.View,android.view.MotionEvent)
+org.libsdl.app.SDLSurface: void enableSensor(int,boolean)
+org.libsdl.app.SDLSurface: void onAccuracyChanged(android.hardware.Sensor,int)
+org.libsdl.app.SDLSurface: void onSensorChanged(android.hardware.SensorEvent)
+org.libsdl.app.SDLSurface$1
+org.libsdl.app.SDLSurface$1: org.libsdl.app.SDLSurface this$0
+org.libsdl.app.SDLSurface$1: SDLSurface$1(org.libsdl.app.SDLSurface)
+org.libsdl.app.SDLSurface$1: void run()

@@ -1,0 +1,16 @@
+Android NDK: WARNING: APP_PLATFORM android-15 is larger than android:minSdkVersion 14 in /media/fp/Programmieren/workspace_android_eclipse/hsnake_adventures/AndroidManifest.xml    
+[armeabi] Install        : libSDL2.so => libs/armeabi/libSDL2.so
+[armeabi] Install        : libSDL2_mixer.so => libs/armeabi/libSDL2_mixer.so
+[armeabi] Compile++ thumb: main <= main.cc
+[armeabi] SharedLibrary  : libmain.so
+[armeabi] Install        : libmain.so => libs/armeabi/libmain.so
+[armeabi-v7a] Install        : libSDL2.so => libs/armeabi-v7a/libSDL2.so
+[armeabi-v7a] Install        : libSDL2_mixer.so => libs/armeabi-v7a/libSDL2_mixer.so
+[armeabi-v7a] Compile++ thumb: main <= main.cc
+[armeabi-v7a] SharedLibrary  : libmain.so
+[armeabi-v7a] Install        : libmain.so => libs/armeabi-v7a/libmain.so
+[x86] Install        : libSDL2.so => libs/x86/libSDL2.so
+[x86] Install        : libSDL2_mixer.so => libs/x86/libSDL2_mixer.so
+[x86] Compile++      : main <= main.cc
+[x86] SharedLibrary  : libmain.so
+[x86] Install        : libmain.so => libs/x86/libmain.so

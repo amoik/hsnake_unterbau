@@ -1,0 +1,83 @@
+Defining custom 'clean' task when using the standard Gradle lifecycle plugins has been deprecated and is scheduled to be removed in Gradle 3.0
+:preBuild UP-TO-DATE
+:preDebugBuild UP-TO-DATE
+:checkDebugManifest
+:prepareDebugDependencies
+:compileDebugAidl UP-TO-DATE
+:compileDebugRenderscript UP-TO-DATE
+:generateDebugBuildConfig UP-TO-DATE
+:generateDebugAssets UP-TO-DATE
+:mergeDebugAssets UP-TO-DATE
+:generateDebugResValues UP-TO-DATE
+:generateDebugResources UP-TO-DATE
+:mergeDebugResources UP-TO-DATE
+:processDebugManifest UP-TO-DATE
+:processDebugResources UP-TO-DATE
+:generateDebugSources UP-TO-DATE
+:compileDebugJavaWithJavac UP-TO-DATE
+:compileDebugNdk UP-TO-DATE
+:compileDebugSources UP-TO-DATE
+:transformClassesWithDexForDebug UP-TO-DATE
+:mergeDebugJniLibFolders
+:transformNative_libsWithMergeJniLibsForDebug
+:processDebugJavaRes UP-TO-DATE
+:transformResourcesWithMergeJavaResForDebug UP-TO-DATE
+:validateDebugSigning
+:packageDebug
+:zipalignDebug
+:assembleDebug
+:preReleaseBuild UP-TO-DATE
+:checkReleaseManifest
+:prepareReleaseDependencies
+:compileReleaseAidl UP-TO-DATE
+:compileReleaseRenderscript UP-TO-DATE
+:generateReleaseBuildConfig UP-TO-DATE
+:generateReleaseAssets UP-TO-DATE
+:mergeReleaseAssets UP-TO-DATE
+:generateReleaseResValues UP-TO-DATE
+:generateReleaseResources UP-TO-DATE
+:mergeReleaseResources UP-TO-DATE
+:processReleaseManifest UP-TO-DATE
+:processReleaseResources UP-TO-DATE
+:generateReleaseSources UP-TO-DATE
+:compileReleaseJavaWithJavac UP-TO-DATE
+:compileReleaseNdk UP-TO-DATE
+:compileReleaseSources UP-TO-DATE
+:lintVitalRelease
+:transformClassesWithDexForRelease UP-TO-DATE
+:mergeReleaseJniLibFolders
+:transformNative_libsWithMergeJniLibsForRelease
+:processReleaseJavaRes UP-TO-DATE
+:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:validateReleaseSigning
+:packageRelease
+:zipalignRelease
+:assembleRelease
+:assemble
+:compileLint
+:lint
+Wrote HTML report to file:///home/anti88/Programmieren/StudioProjects/hsnake/build/outputs/lint-results.html
+Wrote XML report to file:///home/anti88/Programmieren/StudioProjects/hsnake/build/outputs/lint-results.xml
+Lint found 0 errors and 17 warnings
+:preDebugUnitTestBuild UP-TO-DATE
+:prepareDebugUnitTestDependencies
+:compileDebugUnitTestJavaWithJavac UP-TO-DATE
+:processDebugUnitTestJavaRes UP-TO-DATE
+:compileDebugUnitTestSources UP-TO-DATE
+:mockableAndroidJar UP-TO-DATE
+:assembleDebugUnitTest UP-TO-DATE
+:testDebugUnitTest UP-TO-DATE
+:preReleaseUnitTestBuild UP-TO-DATE
+:prepareReleaseUnitTestDependencies
+:compileReleaseUnitTestJavaWithJavac UP-TO-DATE
+:processReleaseUnitTestJavaRes UP-TO-DATE
+:compileReleaseUnitTestSources UP-TO-DATE
+:assembleReleaseUnitTest UP-TO-DATE
+:testReleaseUnitTest UP-TO-DATE
+:test UP-TO-DATE
+:check
+:build
+
+BUILD SUCCESSFUL
+
+Total time: 3.182 secs

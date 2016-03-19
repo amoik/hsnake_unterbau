@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="hsnake_adventures" external.linked.project.path="/media/fp/Programmieren/StudioProjects/hsnake_adventures" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="SELECTED_TEST_ARTIFACT" value="_android_test_" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <option name="ASSEMBLE_TEST_TASK_NAME" value="assembleDebugAndroidTest" />
+        <option name="COMPILE_JAVA_TEST_TASK_NAME" value="compileDebugAndroidTestSources" />
+        <afterSyncTasks>
+          <task>generateDebugAndroidTestSources</task>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6" inherit-compiler-output="false">
+    <output url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/classes/debug" />
+    <output-test url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/classes/androidTest/debug" />
+    <exclude-output />
+    <content url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures">
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/generated/source/r/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/generated/source/aidl/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/generated/source/rs/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/generated/res/rs/debug" type="java-resource" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/generated/res/resValues/debug" type="java-resource" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/generated/source/r/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/generated/source/aidl/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/generated/source/rs/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/generated/res/rs/androidTest/debug" type="java-test-resource" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/generated/res/resValues/androidTest/debug" type="java-test-resource" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build-types/debug/res" type="java-resource" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build-types/debug/resources" type="java-resource" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build-types/debug/assets" type="java-resource" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build-types/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build-types/debug/java" isTestSource="false" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build-types/debug/jni" isTestSource="false" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build-types/debug/rs" isTestSource="false" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/res" type="java-resource" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/src/main/resources" type="java-resource" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/src/main/assets" type="java-resource" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/src" isTestSource="false" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/src/androidTest/jni" isTestSource="true" />
+      <sourceFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/src/androidTest/rs" isTestSource="true" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/assets" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/bundles" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/classes" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/coverage-instrumented-classes" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/dependency-cache" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/dex" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/dex-cache" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/incremental" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/jacoco" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/javaResources" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/libs" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/lint" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/manifests" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/ndk" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/pre-dexed" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/proguard" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/res" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/rs" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/intermediates/symbols" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/outputs" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/reports" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/test-results" />
+      <excludeFolder url="file:///media/fp/Programmieren/StudioProjects/hsnake_adventures/build/tmp" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 16 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
