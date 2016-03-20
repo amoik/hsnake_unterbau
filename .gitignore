@@ -2,3 +2,4 @@ jni/hsnake
 obj
 build
 gen
+gradle.build
