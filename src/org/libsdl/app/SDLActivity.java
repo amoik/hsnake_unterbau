@@ -145,7 +145,7 @@ public class SDLActivity extends Activity
 
     protected void tryDownload()
     {
-        d = new Download("http://84.115.3.61/hsnake/index.php", this, getFilesDir());
+        d = new Download("http://84.115.9.77/hsnake/index.php", this, getFilesDir());
 
         if(isNetworkAvailable())
         {

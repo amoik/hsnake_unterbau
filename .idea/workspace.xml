@@ -4,7 +4,282 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a36112aa-fda9-4e32-ae33-6222e78136c4" name="Default" comment="" />
+    <list default="true" id="a36112aa-fda9-4e32-ae33-6222e78136c4" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/_literals.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_noise.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_noise.inl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/hint.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/precision.inl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/constants.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/epsilon.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/inertia.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/inertia.inl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/int_10_10_10_2.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/int_10_10_10_2.inl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/multiple.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/multiple.inl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/noise.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/random.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/reciprocal.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/ulp.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/unsigned_int.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/unsigned_int.inl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/vec1.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/vec1.inl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/virtrev/xstream.hpp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.12/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_half.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_half.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libSDL2_mixer.so" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libSDL2_mixer.so" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libmain.so" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libmain.so" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/armeabi/libSDL2_mixer.so" afterPath="$PROJECT_DIR$/libs/armeabi/libSDL2_mixer.so" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/armeabi/libmain.so" afterPath="$PROJECT_DIR$/libs/armeabi/libmain.so" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/x86/libSDL2_mixer.so" afterPath="$PROJECT_DIR$/libs/x86/libSDL2_mixer.so" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/x86/libmain.so" afterPath="$PROJECT_DIR$/libs/x86/libmain.so" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hsnake.iml" afterPath="$PROJECT_DIR$/hsnake.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/common.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/common.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/_features.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/_features.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/_fixes.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/_fixes.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/_noise.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/_noise.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/_swizzle.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/_swizzle.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/_swizzle_func.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/_swizzle_func.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/_vectorize.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/_vectorize.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/dummy.cpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/dummy.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_common.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_common.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_common.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_common.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_exponential.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_exponential.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_exponential.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_exponential.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_geometric.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_geometric.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_geometric.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_geometric.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_integer.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_integer.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_integer.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_integer.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_matrix.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_matrix.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_matrix.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_matrix.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_packing.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_packing.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_packing.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_packing.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_trigonometric.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_trigonometric.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_trigonometric.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_trigonometric.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_vector_relational.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_vector_relational.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_vector_relational.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/func_vector_relational.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/glm.cpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/glm.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_common.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_common.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_common.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_common.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_exponential.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_exponential.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_exponential.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_exponential.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_geometric.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_geometric.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_geometric.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_geometric.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_integer.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_integer.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_integer.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_integer.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_matrix.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_matrix.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_matrix.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_matrix.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_trigonometric.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_trigonometric.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_trigonometric.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_trigonometric.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_vector_relational.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_vector_relational.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_vector_relational.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/intrinsic_vector_relational.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/precision.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/precision.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/setup.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/setup.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_float.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_float.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_gentype.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_gentype.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_gentype.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_gentype.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_half.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_half.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_int.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_int.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat2x2.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat2x2.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat2x2.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat2x2.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat2x3.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat2x3.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat2x3.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat2x3.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat2x4.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat2x4.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat2x4.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat2x4.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat3x2.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat3x2.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat3x2.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat3x2.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat3x3.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat3x3.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat3x3.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat3x3.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat3x4.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat3x4.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat3x4.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat3x4.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat4x2.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat4x2.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat4x2.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat4x2.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat4x3.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat4x3.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat4x3.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat4x3.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat4x4.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat4x4.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat4x4.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_mat4x4.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec1.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec1.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec1.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec1.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec2.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec2.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec2.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec2.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec3.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec3.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec3.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec3.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec4.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec4.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec4.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/detail/type_vec4.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/exponential.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/exponential.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/ext.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/ext.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/fwd.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/fwd.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/geometric.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/geometric.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/glm.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/glm.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/constants.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/constants.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/constants.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/constants.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/epsilon.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/epsilon.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/epsilon.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/epsilon.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/matrix_access.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/matrix_access.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/matrix_access.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/matrix_access.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/matrix_integer.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/matrix_integer.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/matrix_inverse.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/matrix_inverse.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/matrix_inverse.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/matrix_inverse.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/matrix_transform.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/matrix_transform.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/matrix_transform.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/matrix_transform.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/noise.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/noise.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/noise.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/noise.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/packing.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/packing.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/packing.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/packing.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/quaternion.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/quaternion.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/quaternion.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/quaternion.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/random.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/random.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/random.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/random.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/reciprocal.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/reciprocal.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/reciprocal.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/reciprocal.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/type_precision.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/type_precision.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/type_precision.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/type_precision.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/type_ptr.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/type_ptr.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/type_ptr.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/type_ptr.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/ulp.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/ulp.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/ulp.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtc/ulp.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/associated_min_max.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/associated_min_max.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/associated_min_max.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/associated_min_max.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/bit.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/bit.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/bit.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/bit.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/closest_point.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/closest_point.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/closest_point.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/closest_point.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/color_space.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/color_space.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/color_space.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/color_space.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/color_space_YCoCg.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/color_space_YCoCg.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/color_space_YCoCg.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/color_space_YCoCg.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/compatibility.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/compatibility.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/compatibility.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/compatibility.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/component_wise.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/component_wise.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/component_wise.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/component_wise.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/dual_quaternion.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/dual_quaternion.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/dual_quaternion.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/dual_quaternion.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/euler_angles.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/euler_angles.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/euler_angles.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/euler_angles.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/extend.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/extend.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/extend.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/extend.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/extented_min_max.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/extented_min_max.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/extented_min_max.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/extented_min_max.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/fast_exponential.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/fast_exponential.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/fast_exponential.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/fast_exponential.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/fast_square_root.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/fast_square_root.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/fast_square_root.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/fast_square_root.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/fast_trigonometry.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/fast_trigonometry.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/fast_trigonometry.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/fast_trigonometry.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/gradient_paint.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/gradient_paint.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/gradient_paint.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/gradient_paint.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/handed_coordinate_space.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/handed_coordinate_space.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/handed_coordinate_space.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/handed_coordinate_space.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/integer.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/integer.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/integer.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/integer.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/intersect.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/intersect.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/intersect.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/intersect.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/io.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/io.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/io.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/io.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/log_base.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/log_base.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/log_base.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/log_base.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_cross_product.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_cross_product.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_cross_product.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_cross_product.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_interpolation.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_interpolation.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_interpolation.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_interpolation.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_major_storage.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_major_storage.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_major_storage.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_major_storage.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_operation.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_operation.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_operation.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_operation.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_query.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_query.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_query.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_query.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_transform_2d.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_transform_2d.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_transform_2d.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/matrix_transform_2d.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/mixed_product.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/mixed_product.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/mixed_product.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/mixed_product.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/norm.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/norm.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/norm.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/norm.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/normal.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/normal.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/normal.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/normal.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/normalize_dot.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/normalize_dot.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/normalize_dot.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/normalize_dot.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/number_precision.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/number_precision.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/number_precision.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/number_precision.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/optimum_pow.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/optimum_pow.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/optimum_pow.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/optimum_pow.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/orthonormalize.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/orthonormalize.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/orthonormalize.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/orthonormalize.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/perpendicular.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/perpendicular.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/perpendicular.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/perpendicular.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/polar_coordinates.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/polar_coordinates.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/polar_coordinates.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/polar_coordinates.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/projection.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/projection.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/projection.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/projection.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/quaternion.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/quaternion.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/quaternion.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/quaternion.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/raw_data.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/raw_data.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/raw_data.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/raw_data.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/rotate_normalized_axis.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/rotate_normalized_axis.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/rotate_normalized_axis.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/rotate_normalized_axis.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/rotate_vector.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/rotate_vector.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/rotate_vector.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/rotate_vector.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/scalar_relational.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/scalar_relational.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/scalar_relational.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/scalar_relational.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/simd_mat4.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/simd_mat4.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/simd_mat4.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/simd_mat4.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/simd_quat.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/simd_quat.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/simd_quat.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/simd_quat.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/simd_vec4.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/simd_vec4.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/simd_vec4.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/simd_vec4.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/spline.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/spline.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/spline.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/spline.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/std_based_type.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/std_based_type.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/std_based_type.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/std_based_type.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/string_cast.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/string_cast.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/string_cast.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/string_cast.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/transform.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/transform.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/transform.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/transform.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/transform2.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/transform2.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/transform2.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/transform2.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/vector_angle.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/vector_angle.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/vector_angle.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/vector_angle.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/vector_query.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/vector_query.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/vector_query.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/vector_query.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/wrap.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/wrap.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/wrap.inl" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/gtx/wrap.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/integer.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/integer.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/mat2x2.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/mat2x2.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/mat2x3.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/mat2x3.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/mat2x4.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/mat2x4.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/mat3x2.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/mat3x2.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/mat3x3.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/mat3x3.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/mat3x4.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/mat3x4.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/mat4x2.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/mat4x2.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/mat4x3.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/mat4x3.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/mat4x4.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/mat4x4.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/matrix.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/matrix.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/packing.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/packing.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/trigonometric.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/trigonometric.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/vec2.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/vec2.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/vec3.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/vec3.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/vec4.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/vec4.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni/SDL/include/glm/vector_relational.hpp" afterPath="$PROJECT_DIR$/jni/SDL/include/glm/vector_relational.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/libsdl/app/SDLActivity.java" afterPath="$PROJECT_DIR$/src/org/libsdl/app/SDLActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/adb_install.log" afterPath="$PROJECT_DIR$/tmp/adb_install.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/gradle.log" afterPath="$PROJECT_DIR$/tmp/gradle.log" />
+    </list>
     <ignored path="hsnake.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/build/intermediates/assets/" />
@@ -42,8 +317,32 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="hsnake" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.43851852">
+              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -119,6 +418,11 @@
                 <option name="name" value="buildDependents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'hsnake'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects it depends on." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildNeeded" />
@@ -162,6 +466,10 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugAndroidTestShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileDebugAndroidTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -175,6 +483,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileDebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -207,6 +519,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileReleaseRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileReleaseShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -259,18 +575,6 @@
                 <option name="description" value="Runs all device checks using Device Providers and Test Servers." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="deviceCheck" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="dexDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="dexDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="dexRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -338,6 +642,26 @@
                 <option name="name" value="help" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="incrementalDebugAndroidTestJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="incrementalDebugJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="incrementalDebugUnitTestJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="incrementalReleaseJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="incrementalReleaseUnitTestJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Initializes a new Gradle build. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="init" />
@@ -351,6 +675,11 @@
                 <option name="description" value="Installs the android (on device) tests for the Debug build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="installDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="installRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -386,7 +715,15 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeDebugAndroidTestJniLibFolders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mergeDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeDebugAndroidTestShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -394,7 +731,15 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeDebugJniLibFolders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mergeDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeDebugShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -402,7 +747,15 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeReleaseJniLibFolders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mergeReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeReleaseShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Creates a version of android.jar that's suitable for unit tests." />
@@ -444,15 +797,15 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="preDexDebug" />
+                <option name="name" value="prePackageMarkerForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="preDexDebugAndroidTest" />
+                <option name="name" value="prePackageMarkerForDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="preDexRelease" />
+                <option name="name" value="prePackageMarkerForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -567,6 +920,50 @@
                 <option name="name" value="testReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesWithDexForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesWithDexForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesWithDexForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNative_libsWithMergeJniLibsForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNative_libsWithMergeJniLibsForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNative_libsWithMergeJniLibsForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformResourcesWithMergeJavaResForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformResourcesWithMergeJavaResForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformResourcesWithMergeJavaResForDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformResourcesWithMergeJavaResForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformResourcesWithMergeJavaResForReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Uninstall all applications." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="uninstallAll" />
@@ -603,6 +1000,10 @@
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="zipalignDebug" />
               </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="zipalignRelease" />
+              </ExternalTaskPojo>
             </list>
           </value>
         </entry>
@@ -610,7 +1011,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="1446468144465" />
+        <entry key="$PROJECT_DIR$" value="1461248794964" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -625,72 +1026,75 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/1.3.0/gradle-1.3.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/1.3.0/gradle-1.3.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/1.3.0/gradle-core-1.3.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/1.3.0/gradle-core-1.3.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/1.3.0/builder-1.3.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/1.3.0/builder-1.3.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/24.3.0/lint-24.3.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/24.3.0/lint-24.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/2.1.0-beta3/gradle-2.1.0-beta3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/2.1.0-beta3/gradle-core-2.1.0-beta3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.core/0.7.4.201502262128/org.jacoco.core-0.7.4.201502262128-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.core/0.7.4.201502262128/org.jacoco.core-0.7.4.201502262128.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/25.1.0-beta3/lint-25.1.0-beta3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-commons/5.0.3/asm-commons-5.0.3-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-commons/5.0.3/asm-commons-5.0.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-api/2.1.0-beta3/gradle-api-2.1.0-beta3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/2.1.0-beta3/builder-2.1.0-beta3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/transform-api/2.0.0-deprecated-use-gradle-api/transform-api-2.0.0-deprecated-use-gradle-api.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdk-common/24.3.0/sdk-common-24.3.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdk-common/24.3.0/sdk-common-24.3.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/common/24.3.0/common-24.3.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/common/24.3.0/common-24.3.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-model/1.3.0/builder-model-1.3.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-model/1.3.0/builder-model-1.3.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jill/jill-api/0.9.0/jill-api-0.9.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jill/jill-api/0.9.0/jill-api-0.9.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/ddms/ddmlib/24.3.0/ddmlib-24.3.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/ddms/ddmlib/24.3.0/ddmlib-24.3.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/24.3.0/sdklib-24.3.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/24.3.0/sdklib-24.3.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/manifest-merger/24.3.0/manifest-merger-24.3.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/manifest-merger/24.3.0/manifest-merger-24.3.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jack/jack-api/0.9.0/jack-api-0.9.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jack/jack-api/0.9.0/jack-api-0.9.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.3/asm-5.0.3-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-test-api/1.3.0/builder-test-api-1.3.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-test-api/1.3.0/builder-test-api-1.3.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-checks/24.3.0/lint-checks-24.3.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-checks/24.3.0/lint-checks-24.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/databinding/compilerCommon/2.1.0-beta3/compilerCommon-2.1.0-beta3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-checks/25.1.0-beta3/lint-checks-25.1.0-beta3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.4.2/ecj-4.4.2-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.4.2/ecj-4.4.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/annotations/24.3.0/annotations-24.3.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/annotations/24.3.0/annotations-24.3.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/dvlib/24.3.0/dvlib-24.3.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/dvlib/24.3.0/dvlib-24.3.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/24.3.0/layoutlib-api-24.3.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/24.3.0/layoutlib-api-24.3.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/annotations/25.1.0-beta3/annotations-25.1.0-beta3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/common/25.1.0-beta3/common-25.1.0-beta3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-model/2.1.0-beta3/builder-model-2.1.0-beta3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdk-common/25.1.0-beta3/sdk-common-25.1.0-beta3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jack/jack-api/0.10.0/jack-api-0.10.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/manifest-merger/25.1.0-beta3/manifest-merger-25.1.0-beta3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-test-api/2.1.0-beta3/builder-test-api-2.1.0-beta3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/ddms/ddmlib/25.1.0-beta3/ddmlib-25.1.0-beta3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/25.1.0-beta3/sdklib-25.1.0-beta3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jill/jill-api/0.10.0/jill-api-0.10.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/databinding/baseLibrary/2.1.0-beta3/baseLibrary-2.1.0-beta3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/tunnelvisionlabs/antlr4/4.5/antlr4-4.5.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/25.1.0-beta3/lint-api-25.1.0-beta3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/24.3.0/lint-api-24.3.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/24.3.0/lint-api-24.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/repository/25.1.0-beta3/repository-25.1.0-beta3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/25.1.0-beta3/layoutlib-api-25.1.0-beta3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/dvlib/25.1.0-beta3/dvlib-25.1.0-beta3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/tunnelvisionlabs/antlr4-runtime/4.5/antlr4-runtime-4.5.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/tunnelvisionlabs/antlr4-annotations/4.5/antlr4-annotations-4.5.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/ST4/4.0.8/ST4-4.0.8.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar" />
@@ -699,8 +1103,7 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/abego/treelayout/org.abego.treelayout.core/1.0.1/org.abego.treelayout.core-1.0.1.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$" />
@@ -712,117 +1115,64 @@
               <option name="name" value="hsnake" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/announce" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/antlr" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/base-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/base-services-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/build-comparison" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/build-init" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/cli" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/code-quality" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/core" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/dependency-management" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/diagnostics" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/ear" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/ide" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/ide-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/internal-integ-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/internal-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/ivy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/jacoco" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/javascript" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/jetty" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/language-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/language-java" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/language-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/language-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/language-scala" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/launcher" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/maven" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/messaging" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/model-core" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/model-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/open-api" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/osgi" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/platform-base" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/platform-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/platform-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/platform-play" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/plugin-development" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/plugin-use" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/plugins" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/publish" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/reporting" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/resources" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/resources-http" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/resources-s3" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/resources-sftp" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/scala" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/signing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/sonar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/testing-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/tooling-api" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/tooling-api-builders" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/ui" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/src/wrapper" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/gradle-launcher-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/gradle-wrapper-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/gradle-base-services-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/gradle-core-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/gradle-cli-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/gradle-ui-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/gradle-tooling-api-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/gradle-native-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/groovy-all-2.3.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/gradle-model-core-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/gradle-model-groovy-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/ant-1.9.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/gradle-base-services-groovy-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/gradle-messaging-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/gradle-resources-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/gradle-docs-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/gradle-open-api-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/ant-launcher-1.9.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-plugins-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-code-quality-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-jetty-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-antlr-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-osgi-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-maven-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-ide-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-announce-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-scala-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-sonar-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-signing-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-ear-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-javascript-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-build-comparison-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-diagnostics-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-reporting-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-publish-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-ivy-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-jacoco-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-build-init-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-platform-base-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-platform-jvm-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-language-jvm-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-language-java-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-language-groovy-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-language-scala-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-platform-native-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-platform-play-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-language-native-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-ide-native-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-testing-native-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-plugin-development-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-plugin-use-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-resources-http-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-resources-sftp-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-resources-s3-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-tooling-api-builders-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/gradle-dependency-management-2.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/6r4uqcc6ovnq6ac6s0txzcpc0/gradle-2.4/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/gradle-launcher-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/gradle-native-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/ant-launcher-1.9.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/gradle-base-services-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/gradle-cli-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/gradle-core-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/gradle-base-services-groovy-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/groovy-all-2.4.4.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/gradle-resources-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/gradle-tooling-api-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/gradle-messaging-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/gradle-open-api-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/gradle-ui-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/gradle-model-core-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/ant-1.9.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/gradle-docs-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/gradle-wrapper-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/gradle-model-groovy-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-language-java-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-publish-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-platform-base-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-ivy-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-plugins-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-announce-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-language-jvm-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-sonar-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-scala-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-language-native-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-jetty-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-osgi-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-plugin-development-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-ide-native-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-platform-jvm-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-ear-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-resources-s3-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-antlr-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-build-comparison-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-diagnostics-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-code-quality-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-testing-native-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-javascript-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-reporting-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-tooling-api-builders-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-test-kit-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-signing-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-platform-native-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-language-groovy-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-resources-http-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-jacoco-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-build-init-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-dependency-management-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-platform-play-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-ide-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-language-scala-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-resources-sftp-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-maven-2.10.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10/lib/plugins/gradle-plugin-use-2.10.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -836,14 +1186,17 @@
       <projects_view />
     </option>
   </component>
-  <component name="NamedScopeManager">
-    <order />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="336" />
-    <option name="y" value="256" />
-    <option name="width" value="780" />
-    <option name="height" value="661" />
+    <option name="y" value="27" />
+    <option name="width" value="1600" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -856,7 +1209,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -866,11 +1219,33 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hsnake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hsnake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hsnake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -878,20 +1253,19 @@
               <option name="myItemId" value="hsnake" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="hsnake" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hsnake" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.NonAndroidModuleNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -903,7 +1277,6 @@
     <property name="recentsLimit" value="5" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="10.201.43.208:5555" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_23" />
-    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="Android Application.hsnake">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -919,10 +1292,23 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method />
@@ -941,10 +1327,23 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -981,7 +1380,10 @@
       </option>
       <envs />
       <patterns />
-      <method />
+      <method>
+        <option name="Make" enabled="false" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -1037,10 +1439,23 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method />
@@ -1075,37 +1490,37 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="336" y="256" width="780" height="661" extended-state="0" />
+    <frame x="0" y="27" width="1600" height="873" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.46774194" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5300546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2404692" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.108891755" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1125,7 +1540,64 @@
     </ignored-roots>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4945055">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.gradle/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43851852">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

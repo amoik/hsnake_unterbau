@@ -1,0 +1,89 @@
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.1.0'
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 16
+    buildToolsVersion "23.0.1"
+
+    android.defaultConfig {
+        applicationId "com.hsnake.game"
+        minSdkVersion 16
+        targetSdkVersion 20
+        versionCode 123
+        versionName "1.0"
+
+        ndk {
+            moduleName "main"
+            stl "gnustl_static"
+            cFlags "-std=c++11 -fexceptions -DANDROID_NDK -I${project.buildDir}/src/main/libs/SDL2_mixer"
+            ldLibs "log SDL2 SDL2_mixer libcurl libneon"
+        }
+    }
+
+    android.sourceSets.main {
+        jniLibs.srcDir 'libs' //set .so files location to libs instead of jniLibs
+        jni.srcDirs = [] //disable automatic ndk-build call
+        manifest.srcFile 'AndroidManifest.xml'
+        java.srcDirs = ['src']
+        //resources.srcDirs = ['src']
+        //aidl.srcDirs = ['src']
+        //renderscript.srcDirs = ['src']
+        res.srcDirs = ['res']
+        //assets.srcDirs = ['jni/src/daten']
+        //ndk.srcDirs = ['jni']
+        //cpp.srcDirs = ['src']
+    }
+
+    android.sourceSets {
+
+        // Move the tests to tests/java, tests/res, etc...
+        instrumentTest.setRoot('tests')
+
+        // Move the build types to build-types/<type>
+        // For instance, build-types/debug/java, build-types/debug/AndroidManifest.xml, ...
+        // This moves them out of them default location under src/<type>/... which would
+        // conflict with src/ being used by the main source set.
+        // Adding new build types or product flavors should be accompanied
+        // by a similar customization.
+        debug.setRoot('build-types/debug')
+        release.setRoot('build-types/release')
+    }
+
+    signingConfigs {
+        release {
+                storeFile file("../android-key")
+                storePassword "am102gop"
+                keyAlias "anti88"
+                keyPassword "am102gop"
+        }
+    }
+    buildTypes {
+        release {
+            signingConfig signingConfigs.release
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-project.txt'), 'proguard-rules.pro'
+        }
+    }
+}

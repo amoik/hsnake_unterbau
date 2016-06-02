@@ -1,4 +1,5 @@
 Defining custom 'clean' task when using the standard Gradle lifecycle plugins has been deprecated and is scheduled to be removed in Gradle 3.0
+Incremental java compilation is an incubating feature.
 :preBuild UP-TO-DATE
 :preDebugBuild UP-TO-DATE
 :checkDebugManifest
@@ -6,6 +7,8 @@ Defining custom 'clean' task when using the standard Gradle lifecycle plugins ha
 :compileDebugAidl UP-TO-DATE
 :compileDebugRenderscript UP-TO-DATE
 :generateDebugBuildConfig UP-TO-DATE
+:mergeDebugShaders UP-TO-DATE
+:compileDebugShaders UP-TO-DATE
 :generateDebugAssets UP-TO-DATE
 :mergeDebugAssets UP-TO-DATE
 :generateDebugResValues UP-TO-DATE
@@ -14,24 +17,28 @@ Defining custom 'clean' task when using the standard Gradle lifecycle plugins ha
 :processDebugManifest UP-TO-DATE
 :processDebugResources UP-TO-DATE
 :generateDebugSources UP-TO-DATE
+:incrementalDebugJavaCompilationSafeguard UP-TO-DATE
 :compileDebugJavaWithJavac UP-TO-DATE
 :compileDebugNdk UP-TO-DATE
 :compileDebugSources UP-TO-DATE
+:prePackageMarkerForDebug
 :transformClassesWithDexForDebug UP-TO-DATE
-:mergeDebugJniLibFolders
-:transformNative_libsWithMergeJniLibsForDebug
+:mergeDebugJniLibFolders UP-TO-DATE
+:transformNative_libsWithMergeJniLibsForDebug UP-TO-DATE
 :processDebugJavaRes UP-TO-DATE
 :transformResourcesWithMergeJavaResForDebug UP-TO-DATE
 :validateDebugSigning
-:packageDebug
-:zipalignDebug
-:assembleDebug
+:packageDebug UP-TO-DATE
+:zipalignDebug UP-TO-DATE
+:assembleDebug UP-TO-DATE
 :preReleaseBuild UP-TO-DATE
 :checkReleaseManifest
 :prepareReleaseDependencies
 :compileReleaseAidl UP-TO-DATE
 :compileReleaseRenderscript UP-TO-DATE
 :generateReleaseBuildConfig UP-TO-DATE
+:mergeReleaseShaders UP-TO-DATE
+:compileReleaseShaders UP-TO-DATE
 :generateReleaseAssets UP-TO-DATE
 :mergeReleaseAssets UP-TO-DATE
 :generateReleaseResValues UP-TO-DATE
@@ -40,25 +47,29 @@ Defining custom 'clean' task when using the standard Gradle lifecycle plugins ha
 :processReleaseManifest UP-TO-DATE
 :processReleaseResources UP-TO-DATE
 :generateReleaseSources UP-TO-DATE
+:incrementalReleaseJavaCompilationSafeguard UP-TO-DATE
 :compileReleaseJavaWithJavac UP-TO-DATE
 :compileReleaseNdk UP-TO-DATE
 :compileReleaseSources UP-TO-DATE
 :lintVitalRelease
+:prePackageMarkerForRelease
 :transformClassesWithDexForRelease UP-TO-DATE
-:mergeReleaseJniLibFolders
-:transformNative_libsWithMergeJniLibsForRelease
+:mergeReleaseJniLibFolders UP-TO-DATE
+:transformNative_libsWithMergeJniLibsForRelease UP-TO-DATE
 :processReleaseJavaRes UP-TO-DATE
 :transformResourcesWithMergeJavaResForRelease UP-TO-DATE
 :validateReleaseSigning
-:packageRelease
-:zipalignRelease
+:packageRelease UP-TO-DATE
+:zipalignRelease UP-TO-DATE
 :assembleRelease
 :assemble
 :compileLint
 :lint
-Wrote HTML report to file:///home/anti88/Programmieren/StudioProjects/hsnake/build/outputs/lint-results.html
-Wrote XML report to file:///home/anti88/Programmieren/StudioProjects/hsnake/build/outputs/lint-results.xml
-Lint found 0 errors and 17 warnings
+Ran lint on variant debug: 20 issues found
+Ran lint on variant release: 20 issues found
+Wrote HTML report to file:///home/anti88/Programmieren/StudioProjects/hsnake/build/outputs/lint-results-debug.html
+Wrote XML report to file:///home/anti88/Programmieren/StudioProjects/hsnake/build/outputs/lint-results-debug.xml
+:incrementalDebugUnitTestJavaCompilationSafeguard UP-TO-DATE
 :preDebugUnitTestBuild UP-TO-DATE
 :prepareDebugUnitTestDependencies
 :compileDebugUnitTestJavaWithJavac UP-TO-DATE
@@ -67,6 +78,7 @@ Lint found 0 errors and 17 warnings
 :mockableAndroidJar UP-TO-DATE
 :assembleDebugUnitTest UP-TO-DATE
 :testDebugUnitTest UP-TO-DATE
+:incrementalReleaseUnitTestJavaCompilationSafeguard UP-TO-DATE
 :preReleaseUnitTestBuild UP-TO-DATE
 :prepareReleaseUnitTestDependencies
 :compileReleaseUnitTestJavaWithJavac UP-TO-DATE
@@ -80,4 +92,4 @@ Lint found 0 errors and 17 warnings
 
 BUILD SUCCESSFUL
 
-Total time: 3.182 secs
+Total time: 1.504 secs

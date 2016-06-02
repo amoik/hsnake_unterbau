@@ -55,7 +55,7 @@ public class Download
         }
 
         writeDir(this.tmpDir, ".tmp");
-        writeDir(this.tmpDir, "base");
+        writeDir(this.tmpDir, "bases");
         writeDir(this.tmpDir, "lvl");
 
         File d = new File(targetDir, foStr);
@@ -77,7 +77,7 @@ public class Download
         else if(!font.exists())
             tinf("Schrift noch nicht vorhanden!");
         else if(!base.exists())
-            tinf("Base noch nicht vorhanden!");
+            tinf("Bases noch nicht vorhanden!");
         else if(!lvl.exists())
             tinf("Levels noch nicht vorhanden!");
 
@@ -192,7 +192,7 @@ public class Download
 		              if(dl == 1)
 		              {
 		                  String ids = ""+id;
-		                  addToQueue("bin", "dlBase&id=" + ids, "base/" + ids + ".adat");
+		                  addToQueue("bin", "dlBase&id=" + ids, "bases/" + ids + ".adat");
 		              }
             }catch(Exception e){
                 terr("JSON fehler", e);

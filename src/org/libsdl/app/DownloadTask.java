@@ -36,7 +36,7 @@ class DownloadTask extends AsyncTask<String, Void, String> {
     //bin/txt		hostname	paramstring		dlName				dir+filename
     @Override
     protected String doInBackground(String... info) {
-tinf("AAAAAA " + info[0]);
+
         if(info[0] == "txt")
         {
 						func = info[3];
@@ -123,7 +123,7 @@ tinf("AAAAAA " + info[0]);
         URL url = new URL(urlString);
         HttpURLConnection conn = (HttpURLConnection) url.openConnection();
         conn.setReadTimeout(10000);
-        conn.setConnectTimeout(15000);
+        conn.setConnectTimeout(45000);
         conn.setRequestMethod("GET");
         conn.setDoInput(true);
         conn.connect();
