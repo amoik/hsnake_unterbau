@@ -23,14 +23,14 @@ Incremental java compilation is an incubating feature.
 :compileDebugSources UP-TO-DATE
 :prePackageMarkerForDebug
 :transformClassesWithDexForDebug UP-TO-DATE
-:mergeDebugJniLibFolders
-:transformNative_libsWithMergeJniLibsForDebug
+:mergeDebugJniLibFolders UP-TO-DATE
+:transformNative_libsWithMergeJniLibsForDebug UP-TO-DATE
 :processDebugJavaRes UP-TO-DATE
 :transformResourcesWithMergeJavaResForDebug UP-TO-DATE
 :validateDebugSigning
-:packageDebug
-:zipalignDebug
-:assembleDebug
+:packageDebug UP-TO-DATE
+:zipalignDebug UP-TO-DATE
+:assembleDebug UP-TO-DATE
 :preReleaseBuild UP-TO-DATE
 :checkReleaseManifest
 :prepareReleaseDependencies
@@ -54,13 +54,13 @@ Incremental java compilation is an incubating feature.
 :lintVitalRelease
 :prePackageMarkerForRelease
 :transformClassesWithDexForRelease UP-TO-DATE
-:mergeReleaseJniLibFolders
-:transformNative_libsWithMergeJniLibsForRelease
+:mergeReleaseJniLibFolders UP-TO-DATE
+:transformNative_libsWithMergeJniLibsForRelease UP-TO-DATE
 :processReleaseJavaRes UP-TO-DATE
 :transformResourcesWithMergeJavaResForRelease UP-TO-DATE
 :validateReleaseSigning
-:packageRelease
-:zipalignRelease
+:packageRelease UP-TO-DATE
+:zipalignRelease UP-TO-DATE
 :assembleRelease
 :assemble
 :compileLint
@@ -92,4 +92,4 @@ Wrote XML report to file:///home/anti88/Programmieren/StudioProjects/hsnake/buil
 
 BUILD SUCCESSFUL
 
-Total time: 3.909 secs
+Total time: 1.682 secs
