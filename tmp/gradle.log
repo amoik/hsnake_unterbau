@@ -10,22 +10,19 @@ Incremental java compilation is an incubating feature.
 :mergeDebugShaders UP-TO-DATE
 :compileDebugShaders UP-TO-DATE
 :generateDebugAssets UP-TO-DATE
-:mergeDebugAssets
+:mergeDebugAssets UP-TO-DATE
 :generateDebugResValues UP-TO-DATE
 :generateDebugResources UP-TO-DATE
-:mergeDebugResources
-:processDebugManifest
-:processDebugResources
-:generateDebugSources
+:mergeDebugResources UP-TO-DATE
+:processDebugManifest UP-TO-DATE
+:processDebugResources UP-TO-DATE
+:generateDebugSources UP-TO-DATE
 :incrementalDebugJavaCompilationSafeguard UP-TO-DATE
-:compileDebugJavaWithJavac
-:compileDebugJavaWithJavac - is not incremental (e.g. outputs have changed, no previous execution, etc.).
+:compileDebugJavaWithJavac UP-TO-DATE
 :compileDebugNdk UP-TO-DATE
-:compileDebugSources
+:compileDebugSources UP-TO-DATE
 :prePackageMarkerForDebug
-:transformClassesWithDexForDebug
-Running dex in-process requires build tools 23.0.2.
-For faster builds update this project to use the latest build tools.
+:transformClassesWithDexForDebug UP-TO-DATE
 :mergeDebugJniLibFolders
 :transformNative_libsWithMergeJniLibsForDebug
 :processDebugJavaRes UP-TO-DATE
@@ -40,24 +37,23 @@ For faster builds update this project to use the latest build tools.
 :compileReleaseAidl UP-TO-DATE
 :compileReleaseRenderscript UP-TO-DATE
 :generateReleaseBuildConfig UP-TO-DATE
-:mergeReleaseShaders
+:mergeReleaseShaders UP-TO-DATE
 :compileReleaseShaders UP-TO-DATE
 :generateReleaseAssets UP-TO-DATE
-:mergeReleaseAssets
+:mergeReleaseAssets UP-TO-DATE
 :generateReleaseResValues UP-TO-DATE
 :generateReleaseResources UP-TO-DATE
-:mergeReleaseResources
-:processReleaseManifest
-:processReleaseResources
-:generateReleaseSources
+:mergeReleaseResources UP-TO-DATE
+:processReleaseManifest UP-TO-DATE
+:processReleaseResources UP-TO-DATE
+:generateReleaseSources UP-TO-DATE
 :incrementalReleaseJavaCompilationSafeguard UP-TO-DATE
-:compileReleaseJavaWithJavac
-:compileReleaseJavaWithJavac - is not incremental (e.g. outputs have changed, no previous execution, etc.).
+:compileReleaseJavaWithJavac UP-TO-DATE
 :compileReleaseNdk UP-TO-DATE
-:compileReleaseSources
+:compileReleaseSources UP-TO-DATE
 :lintVitalRelease
 :prePackageMarkerForRelease
-:transformClassesWithDexForRelease
+:transformClassesWithDexForRelease UP-TO-DATE
 :mergeReleaseJniLibFolders
 :transformNative_libsWithMergeJniLibsForRelease
 :processReleaseJavaRes UP-TO-DATE
@@ -69,8 +65,8 @@ For faster builds update this project to use the latest build tools.
 :assemble
 :compileLint
 :lint
-Ran lint on variant debug: 20 issues found
 Ran lint on variant release: 20 issues found
+Ran lint on variant debug: 20 issues found
 Wrote HTML report to file:///home/anti88/Programmieren/StudioProjects/hsnake/build/outputs/lint-results-debug.html
 Wrote XML report to file:///home/anti88/Programmieren/StudioProjects/hsnake/build/outputs/lint-results-debug.xml
 :incrementalDebugUnitTestJavaCompilationSafeguard UP-TO-DATE
@@ -79,21 +75,21 @@ Wrote XML report to file:///home/anti88/Programmieren/StudioProjects/hsnake/buil
 :compileDebugUnitTestJavaWithJavac UP-TO-DATE
 :processDebugUnitTestJavaRes UP-TO-DATE
 :compileDebugUnitTestSources UP-TO-DATE
-:mockableAndroidJar
-:assembleDebugUnitTest
-:testDebugUnitTest
+:mockableAndroidJar UP-TO-DATE
+:assembleDebugUnitTest UP-TO-DATE
+:testDebugUnitTest UP-TO-DATE
 :incrementalReleaseUnitTestJavaCompilationSafeguard UP-TO-DATE
 :preReleaseUnitTestBuild UP-TO-DATE
 :prepareReleaseUnitTestDependencies
 :compileReleaseUnitTestJavaWithJavac UP-TO-DATE
 :processReleaseUnitTestJavaRes UP-TO-DATE
 :compileReleaseUnitTestSources UP-TO-DATE
-:assembleReleaseUnitTest
-:testReleaseUnitTest
-:test
+:assembleReleaseUnitTest UP-TO-DATE
+:testReleaseUnitTest UP-TO-DATE
+:test UP-TO-DATE
 :check
 :build
 
 BUILD SUCCESSFUL
 
-Total time: 9.405 secs
+Total time: 3.909 secs
