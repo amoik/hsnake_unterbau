@@ -18,19 +18,22 @@ Incremental java compilation is an incubating feature.
 :processDebugResources UP-TO-DATE
 :generateDebugSources UP-TO-DATE
 :incrementalDebugJavaCompilationSafeguard UP-TO-DATE
-:compileDebugJavaWithJavac UP-TO-DATE
+:compileDebugJavaWithJavac
+Full recompilation is required because 'SDLActivity.java' was changed. Analysis took 0.003 secs.
 :compileDebugNdk UP-TO-DATE
-:compileDebugSources UP-TO-DATE
+:compileDebugSources
 :prePackageMarkerForDebug
-:transformClassesWithDexForDebug UP-TO-DATE
+:transformClassesWithDexForDebug
+Running dex in-process requires build tools 23.0.2.
+For faster builds update this project to use the latest build tools.
 :mergeDebugJniLibFolders UP-TO-DATE
 :transformNative_libsWithMergeJniLibsForDebug UP-TO-DATE
 :processDebugJavaRes UP-TO-DATE
 :transformResourcesWithMergeJavaResForDebug UP-TO-DATE
 :validateDebugSigning
-:packageDebug UP-TO-DATE
-:zipalignDebug UP-TO-DATE
-:assembleDebug UP-TO-DATE
+:packageDebug
+:zipalignDebug
+:assembleDebug
 :preReleaseBuild UP-TO-DATE
 :checkReleaseManifest
 :prepareReleaseDependencies
@@ -48,25 +51,26 @@ Incremental java compilation is an incubating feature.
 :processReleaseResources UP-TO-DATE
 :generateReleaseSources UP-TO-DATE
 :incrementalReleaseJavaCompilationSafeguard UP-TO-DATE
-:compileReleaseJavaWithJavac UP-TO-DATE
+:compileReleaseJavaWithJavac
+Full recompilation is required because 'SDLActivity.java' was changed. Analysis took 0.0 secs.
 :compileReleaseNdk UP-TO-DATE
-:compileReleaseSources UP-TO-DATE
+:compileReleaseSources
 :lintVitalRelease
 :prePackageMarkerForRelease
-:transformClassesWithDexForRelease UP-TO-DATE
+:transformClassesWithDexForRelease
 :mergeReleaseJniLibFolders UP-TO-DATE
 :transformNative_libsWithMergeJniLibsForRelease UP-TO-DATE
 :processReleaseJavaRes UP-TO-DATE
 :transformResourcesWithMergeJavaResForRelease UP-TO-DATE
 :validateReleaseSigning
-:packageRelease UP-TO-DATE
-:zipalignRelease UP-TO-DATE
+:packageRelease
+:zipalignRelease
 :assembleRelease
 :assemble
 :compileLint
 :lint
-Ran lint on variant release: 20 issues found
 Ran lint on variant debug: 20 issues found
+Ran lint on variant release: 20 issues found
 Wrote HTML report to file:///home/anti88/Programmieren/StudioProjects/hsnake/build/outputs/lint-results-debug.html
 Wrote XML report to file:///home/anti88/Programmieren/StudioProjects/hsnake/build/outputs/lint-results-debug.xml
 :incrementalDebugUnitTestJavaCompilationSafeguard UP-TO-DATE
@@ -77,7 +81,7 @@ Wrote XML report to file:///home/anti88/Programmieren/StudioProjects/hsnake/buil
 :compileDebugUnitTestSources UP-TO-DATE
 :mockableAndroidJar UP-TO-DATE
 :assembleDebugUnitTest UP-TO-DATE
-:testDebugUnitTest UP-TO-DATE
+:testDebugUnitTest
 :incrementalReleaseUnitTestJavaCompilationSafeguard UP-TO-DATE
 :preReleaseUnitTestBuild UP-TO-DATE
 :prepareReleaseUnitTestDependencies
@@ -85,11 +89,11 @@ Wrote XML report to file:///home/anti88/Programmieren/StudioProjects/hsnake/buil
 :processReleaseUnitTestJavaRes UP-TO-DATE
 :compileReleaseUnitTestSources UP-TO-DATE
 :assembleReleaseUnitTest UP-TO-DATE
-:testReleaseUnitTest UP-TO-DATE
-:test UP-TO-DATE
+:testReleaseUnitTest
+:test
 :check
 :build
 
 BUILD SUCCESSFUL
 
-Total time: 1.682 secs
+Total time: 12.018 secs
