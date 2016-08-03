@@ -1,4 +1,6 @@
 jni/hsnake
+tmp/*
+logs/*
 obj
 build
 gen

@@ -1,3 +1,0 @@
-[armeabi] Install        : libSDL2.so => libs/armeabi/libSDL2.so
-[armeabi] Install        : libSDL2_mixer.so => libs/armeabi/libSDL2_mixer.so
-[armeabi] Install        : libmain.so => libs/armeabi/libmain.so
